@@ -36,7 +36,7 @@ To run Foodify locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/bhaxkar0/foodify.git
+    git clone https://github.com/bhaxkar/foodify.git
     ```
 2. Navigate to the project directory:
     ```bash
