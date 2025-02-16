@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhaxkar0/Foodify.git"
+    "url": "git+https://github.com/bhaxkar/Foodify.git"
   },
   "keywords": [
     "Food-Odering",
@@ -20,9 +20,9 @@
   "author": "Bhaskar Jha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bhaxkar0/Foodify/issues"
+    "url": "https://github.com/bhaxkar/Foodify/issues"
   },
-  "homepage": "https://github.com/bhaxkar0/Foodify#readme",
+  "homepage": "https://github.com/bhaxkar/Foodify#readme",
   "devDependencies": {
     "@babel/core": "^7.26.0",
     "@babel/preset-env": "^7.26.0",
