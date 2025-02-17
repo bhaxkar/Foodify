@@ -1,6 +1,6 @@
 # Foodify 🍽️
 
-"Foodify" is modern food ordering application, leveraging cutting-edge technology like React for dynamic user interfaces, React Router for seamless navigation, Redux Toolkit for efficient state management, Tailwind CSS for responsive styling, and testing frameworks like Jest and React Testing Library to ensure reliability and quality. 
+Foodify is modern food ordering application, leveraging cutting-edge technology like React for dynamic user interfaces, React Router for seamless navigation, Redux Toolkit for efficient state management, Tailwind CSS for responsive styling, and testing frameworks like Jest and React Testing Library to ensure reliability and quality. 
 
 
 ## Technical Description📃
