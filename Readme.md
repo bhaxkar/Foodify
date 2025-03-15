@@ -29,6 +29,7 @@ Foodify is modern food ordering application, leveraging cutting-edge technology 
 
 ## Demo
 ![Foodify Demo](./src/assets/demo.gif)
+ [watch demo on youtube](https://www.youtube.com/watch?v=YavNxbvfjF8) 
 
 ## Installation 
 
